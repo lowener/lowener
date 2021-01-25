@@ -2,8 +2,8 @@
 - [cuML](https://github.com/rapidsai/cuml)
 - [ML From Scratch](https://github.com/lowener/MLFromScratch)
 
-![Mickael's github stats](https://github-readme-stats.vercel.app/api?username=lowener&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowener&hide=css,html&layout=compact)
+![Mickael's github stats](https://github-readme-stats.vercel.app/api?username=lowener&hide_border=true&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowener&hide=css,html&layout=compact&theme=radical&langs_count=8&exclude_repo=TFFA)
 
 <!--
 **lowener/lowener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
